@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JayedIqbal
 - 👀 I’m interested in Machine learning , Web design and development, Artificial Intelligence, 
 - 🌱 I’m currently learning nachine learning 
-  - 📫 How to reach me by facebook https://www.facebook.com/jayed.iqbal.562]
+  - 📫 How to reach me by facebook https://www.facebook.com/profile.php?id=100084854216670
 
 <!---
 JayedIqbal/JayedIqbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
